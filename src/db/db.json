@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "04e46210-8c71-47bb-9638-d5732d88bc93",
+    "name": "Jackie Littel",
+    "phone": "816.872.2508 x871",
+    "email": "Adolfo36@hotmail.com",
+    "job": "Chief Research Agent"
+  },
+  {
+    "id": "0c8b5d05-31de-4cc3-8a33-9d499f07834f",
+    "name": "Kim Hegmann PhD",
+    "phone": "1-807-269-6670",
+    "email": "Mable_Blick42@yahoo.com",
+    "job": "Chief Functionality Technician"
+  },
+  {
+    "id": "188451a4-a050-40f9-a461-e6524d18696b",
+    "name": "Inez Cole DVM",
+    "phone": "568-836-6654 x294",
+    "email": "Reynold.Jerde41@gmail.com",
+    "job": "Senior Assurance Agent"
+  },
+  {
+    "id": "58d3f675-123b-45d1-b862-6fee2942f4c7",
+    "name": "Kristy Murazik",
+    "phone": "317.813.4489 x22197",
+    "email": "Marilou_Prohaska@gmail.com",
+    "job": "Internal Tactics Engineer"
+  },
+  {
+    "id": "83f239f0-c56f-4bd6-8839-bd00baa03ff7",
+    "name": "Kerry Kohler",
+    "phone": "242.541.7457 x241",
+    "email": "Lane_Dickens21@hotmail.com",
+    "job": "Customer Accounts Agent"
+  }
+]
